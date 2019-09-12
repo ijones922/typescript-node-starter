@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/ijones922/typescript-node-starter#readme",
   "devDependencies": {
+    "dotenv": "^8.1.0",
+    "husky": "^3.0.5",
     "jest": "^24.9.0",
     "ts-node-dev": "^1.0.0-pre.42",
     "tslint": "^5.20.0",
