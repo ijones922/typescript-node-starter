@@ -1,0 +1,19 @@
+{
+  "name": "typescript-node-starter",
+  "version": "1.0.0",
+  "description": "boilerplate for typescript-node projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijones922/typescript-node-starter.git"
+  },
+  "author": "Ian Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijones922/typescript-node-starter/issues"
+  },
+  "homepage": "https://github.com/ijones922/typescript-node-starter#readme"
+}
